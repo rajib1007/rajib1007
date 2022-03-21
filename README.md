@@ -44,7 +44,7 @@ Languages
 
 
 ![apache hadoop](https://user-images.githubusercontent.com/63140467/147852864-1a008502-31bb-4829-af6d-55521c917a7e.png)
-![Apache Spark](https://a11ybadges.com/badge?logo=apachespark)
+![Apache Spark](https://spark.apache.org/images/spark-logo-trademark.png)
 ![Apache Hive](https://a11ybadges.com/badge?logo=apachehive)
 ![Apache Kafka](https://a11ybadges.com/badge?logo=apachekafka)
 ![YARN](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
