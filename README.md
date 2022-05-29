@@ -10,7 +10,7 @@
 
 
 <h2>About me</h2>
-I’m 23 years old from Howrah, West Bengal. I have completed my graduation from B. P. Poddar Institute of Management and Technology, specialized in Computer Science & Engineer in July 2021. Throughout my college career, I have been trained in various technologies and have gained fundamental skills that are necessary for the job, my projects inclusive of both group and individual have taught me how to work in a team and also take responsibilities while developing new skills and exploring new technologies. I was working as a Web Developer Intern at GlobalCert Pte. Ltd., Singapore for about 2 months. There I am always enthusiastic to learn and undertake new challenges. I am able to work independently in busy environments and also within a team setting.  
+I’m 23 years old from Howrah, West Bengal, currently associated with Optum -UHG(Fortune 5), India. I have completed my graduation from B. P. Poddar Institute of Management and Technology, specialized in Computer Science & Engineer in July 2021. Throughout my college career, I have been trained in various technologies and have gained fundamental skills that are necessary for the job, my projects inclusive of both group and individual have taught me how to work in a team and also take responsibilities while developing new skills and exploring new technologies. I was working as a Web Developer Intern at GlobalCert Pte. Ltd., Singapore for about 2 months. There I am always enthusiastic to learn and undertake new challenges. I am able to work independently in busy environments and also within a team setting.  
 
 <br>
 
