@@ -17,13 +17,8 @@ I am skilled in programming languages such as Python, and Scala, and I have expe
 Overall, my mission is to empower organizations to make data-driven decisions by providing them with the data infrastructure and tools they need to succeed.
 
 ⚡Fun fact: I am friendly, helpful, and polite, have a good sense of humor.
-
 💬 Ask me anything, I will be more than happy to help :D
-<br>
 
-⚡<b>Fun fact:</b> I am friendly, helpful, and polite, have a good sense of humor.
-
-💬 Ask me anything, I will be more than happy to help :D
 
 <h3>Summary</h3>
 
