@@ -48,7 +48,6 @@ Languages
 
 ![dbt](https://a11ybadges.com/badge?logo=dbt)
 ![Snowflake](https://a11ybadges.com/badge?logo=snowflake)
-![Fivetran](https://github.com/user-attachments/assets/b660fb61-1d07-46da-a68e-c56038a7daed){:height="36px" width="36px"}
 ![apache hadoop](https://user-images.githubusercontent.com/63140467/147852864-1a008502-31bb-4829-af6d-55521c917a7e.png)
 ![Apache Spark](https://a11ybadges.com/badge?logo=apachespark)
 ![Apache Hive](https://a11ybadges.com/badge?logo=apachehive)
@@ -60,12 +59,9 @@ Languages
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Databricks](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)
 ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 
 <h3>Coding Platform: </h3>
