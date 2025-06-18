@@ -46,9 +46,11 @@ Languages
 
 <h3>Frameworks, Platforms and Libraries:</h3>
 
-
+![dbt](https://a11ybadges.com/badge?logo=dbt)
+![Snowflake](https://a11ybadges.com/badge?logo=snowflake)
+![Fivetran](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.levelequity.com%2Finvestments%2Ffivetran%2F&psig=AOvVaw0XkL-knVyXTLmmxFoMbctC&ust=1750316468379000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPDGq42z-o0DFQAAAAAdAAAAABAE)
 ![apache hadoop](https://user-images.githubusercontent.com/63140467/147852864-1a008502-31bb-4829-af6d-55521c917a7e.png)
-![Apache Spark]()
+![Apache Spark](https://a11ybadges.com/badge?logo=apachespark)
 ![Apache Hive](https://a11ybadges.com/badge?logo=apachehive)
 ![Apache Kafka](https://a11ybadges.com/badge?logo=apachekafka)
 ![YARN](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
