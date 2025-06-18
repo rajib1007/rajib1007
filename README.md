@@ -48,7 +48,8 @@ Languages
 
 ![dbt](https://a11ybadges.com/badge?logo=dbt)
 ![Snowflake](https://a11ybadges.com/badge?logo=snowflake)
-![Fivetran](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.levelequity.com%2Finvestments%2Ffivetran%2F&psig=AOvVaw0XkL-knVyXTLmmxFoMbctC&ust=1750316468379000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPDGq42z-o0DFQAAAAAdAAAAABAE)
+![Fivetran](https://github.com/user-attachments/assets/b660fb61-1d07-46da-a68e-c56038a7daed)
+
 ![apache hadoop](https://user-images.githubusercontent.com/63140467/147852864-1a008502-31bb-4829-af6d-55521c917a7e.png)
 ![Apache Spark](https://a11ybadges.com/badge?logo=apachespark)
 ![Apache Hive](https://a11ybadges.com/badge?logo=apachehive)
