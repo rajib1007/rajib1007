@@ -48,7 +48,7 @@ Languages
 
 ![dbt](https://a11ybadges.com/badge?logo=dbt)
 ![Snowflake](https://a11ybadges.com/badge?logo=snowflake)
-[![Fivetran](https://github.com/user-attachments/assets/b660fb61-1d07-46da-a68e-c56038a7daed)]
+![Fivetran](https://github.com/user-attachments/assets/b660fb61-1d07-46da-a68e-c56038a7daed){:height="36px" width="36px"}
 ![apache hadoop](https://user-images.githubusercontent.com/63140467/147852864-1a008502-31bb-4829-af6d-55521c917a7e.png)
 ![Apache Spark](https://a11ybadges.com/badge?logo=apachespark)
 ![Apache Hive](https://a11ybadges.com/badge?logo=apachehive)
