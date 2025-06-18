@@ -10,16 +10,17 @@
 
 
 <h2>About me</h2>
-As a data engineer with 2.5+ years of experience, I am passionate about using technology and data to drive business value. My expertise lies in designing, building, and maintaining scalable data pipelines, data warehouses, and ETL processes. I have a strong background in working with big data technologies such as Hadoop, Spark, Kafka, Hive, Airflow, Sqoop, and HDFS as well as cloud-based solutions such as AWS, GCP, and Azure.
+🚀 Turning Data into Insights, One Pipeline at a Time!
 
-I am skilled in programming languages such as Python, and Scala, and I have experience working with various databases and data modeling techniques. Additionally, I am well-versed in data quality management, data governance, and data security, ensuring that data is accurate, reliable, and secure.
+With 4+ years of experience as a Data Engineer, I thrive on transforming raw data into actionable insights that drive business success. From scalable data pipelines to robust data warehouses and efficient ETL processes, I build solutions that make data work smarter.
 
-Overall, my mission is to empower organizations to make data-driven decisions by providing them with the data infrastructure and tools they need to succeed.
+💡 Industry Experience? Been there, done that—worked in Healthcare & Pharma, solving complex data challenges while honing my problem-solving and interpersonal skills.
 
-⚡Fun fact: I am friendly, helpful, and polite, have a good sense of humor.
+🤝 Love meeting new people & tackling new challenges! Always up for a great conversation about data (or just a fun chat).
 
-💬 Ask me anything, I will be more than happy to help :D
+⚡ Fun fact: I'm not just about data—I’m friendly, helpful, polite, and I promise, my sense of humor is better than my SQL queries! 😄
 
+💬 Got a question? Ask away! I’d be more than happy to help.
 
 <h3>Summary</h3>
 
